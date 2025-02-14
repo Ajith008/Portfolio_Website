@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PORTFOLIO"
+  navbar:
+    left:
+      - text: "About"
+        file: about.qmd
+      - text: "Contact"
+        file: contact.qmd
+      - text: "Projects"
+        file: project.qmd
+
+      
+
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: true
+
+editor: visual
