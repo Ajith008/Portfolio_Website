@@ -1,0 +1,142 @@
+---
+title: "Healthcare_Report"
+format: html
+editor: visual
+image: img4.png
+---
+
+### [\[PROJECT LINK\]](https://github.com/Ajith008/Healthcare_Report)
+
+##  **📊 Power BI Claims Analysis Dashboard – Project Summary**
+
+This Power BI project provides a comprehensive analysis of healthcare claims filed between **April to June 2024**. The dashboard presents patterns and trends in claims activity by **gender, provider specialty, geography, claim status, and age group**, offering actionable insights for stakeholders and policy designers.
+
+### **🔍 Key Metrics**
+
+-   **Total Claims:** 18.74K
+
+-   **Average Claim Amount:** ₹25.08K
+
+-   **Total Providers:** 5,000
+
+### **📅 Monthly Claim Trends**
+
+-   **April 2024:** Lowest number of claims.
+
+-   **May 2024:** Sharp spike in claims activity.
+
+-   **June 2024:** Noticeable drop-off in total claims.
+
+### **👤 Gender-Based Insights**
+
+-   **Total Claims by Gender:**
+
+    -   Female: 9K
+
+    -   Male: 8.97K
+
+    -   Other: 0.77K
+
+-   **Trend Over Months:**
+
+    -   **Female:** 3022 → 3066 → 2896
+
+    -   **Male:** 2955 → 3014 → 2998
+
+    -   **Other:** 236 → 260 → 278
+
+### **🩺 Speciality-Based Observations**
+
+-   **Most Active Specialties:** General Practitioners and Oncologists
+
+-   **Least Claims:** Cardiologists
+
+-   **Claim Amounts:** Relatively stable across all specialties
+
+### **📌 Claim Status Overview**
+
+#### **✅ Approved Claims: 13.11K**
+
+-   **Gender Breakdown:**
+
+    -   Female: 6.25K
+
+    -   Male: 6.33K
+
+    -   Other: 0.53K
+
+-   **Monthly Distribution:**
+
+    -   April – 4361, May – 4408, June – 4344
+
+#### **❌ Rejected Claims: 3.66K**
+
+-   **Gender Breakdown:**
+
+    -   Female: 1.77K
+
+    -   Male: 1.74K
+
+    -   Other: 0.15K
+
+-   **Monthly Distribution:**
+
+    -   April – 1180, May – 1274, June – 1205
+
+#### **⏳ Pending Claims (Declining Trend)**
+
+-   **Monthly:**
+
+    -   April – 682, May – 658, June – 625
+
+-   **Gender:**
+
+    -   Female: 972
+
+    -   Male: 901
+
+    -   Other: 92
+
+### **🌍 Statewise Approval Rate Trends**
+
+-   **Alabama:** Steady increase across all months
+
+-   **Alaska:** Continuous decrease until May, slight rise in June
+
+-   **Arizona & Illinois:** Gradual rise, followed by a steep drop
+
+-   **California:** Increased until May, then plateaued
+
+### **❌ Rejection Analysis by Provider and Specialty**
+
+#### **Cardiologists:**
+
+-   **High Rejection Providers in East:** 19, 44
+
+-   **Widespread Rejection (East, Center, West):** Provider 41
+
+-   **Center-Focused Rejection:** 771, 52
+
+-   **East & West Only:** 61
+
+-   **Minimal Rejections:** Providers 68, 59, 64, 83
+
+#### **Dermatologists:**
+
+-   **Only East:** Providers 3, 7
+
+-   **Only West:** Provider 178
+
+-   **Only Center:** Provider 351
+
+-   **Widespread:** Providers 16, 29, 38
+
+-   **Very Low Rejections:** 3, 30, 74
+
+#### **Additional Insights:**
+
+-   **Age Group Impact:** Individuals aged **20 to 60** have a significantly higher claim approval rate.
+
+-   **State-Provider Interaction:** The combination of **provider ID and the state they apply in** significantly influences rejection rates.
+
+-   **Age, Provider, and Region Interact:** Rejection is notably influenced by the interaction of **age group, provider specialty, and geographic region**.

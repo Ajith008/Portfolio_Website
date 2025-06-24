@@ -1,0 +1,13 @@
+---
+title: "Projects"
+listing: 
+  contents: 
+  - project1.qmd
+  - project2.qmd
+  - project3.qmd
+  - project4.qmd
+  
+  type: grid
+  categories: true
+  fields: [image,title]
+---

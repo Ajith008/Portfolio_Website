@@ -1,0 +1,14 @@
+---
+title: "About"
+image: Picture.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 20em
+---
+
+Myself Ajith Raju Aumbati. I am a data-driven professional with 2 years of experience as an Application Development Associate at Accenture. Currently, I am pursuing a master’s degree in Data Analytics Engineering at George Mason University, where I am honing my skills in machine learning, statistical analysis, and predictive analytics.
+
+As an experienced professional, I specialize in leveraging data to uncover actionable insights, build scalable solutions, and drive business value. My technical expertise spans Python, R, and SQL, complemented by proficiency in visualization tools like Power BI and Tableau. I have hands-on experience in advanced frameworks such as Scikit-learn, Numpy, Pandas, and Seaborn, which I have used to develop predictive models, automate workflows, and perform complex data analyses.
+
+My areas of interest include Sales Analysis, where I focus on analyzing sales performance, trends, and revenue generation, and Marketing Analytics, where I measure campaign effectiveness, perform customer segmentation, and evaluate ROI. These interests allow me to combine technical expertise with business strategy to deliver impactful insights.
